@@ -1,1 +1,2 @@
 What does this do to the txt
+Learning how to use VSCode to type and its terminal to commit
